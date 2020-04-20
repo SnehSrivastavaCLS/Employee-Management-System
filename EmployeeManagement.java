@@ -39,6 +39,7 @@ public class EmployeeManagement
                            break;
 
                 case '5' : return;
+                default: System.out.println("Invalid Input");
             }                        
         }                
     }
